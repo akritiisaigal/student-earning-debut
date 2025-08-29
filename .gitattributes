@@ -1,1 +1,2 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
+Student[[:space:]]Earnings[[:space:]]and[[:space:]]Debt[[:space:]]Predictor/smart_earnings_debt_predictor.pkl filter=lfs diff=lfs merge=lfs -text
