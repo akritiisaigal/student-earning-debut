@@ -1,0 +1,1 @@
+Only install required libraries from the requirements.txt file
